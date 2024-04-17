@@ -16,7 +16,9 @@ public class Ex01 {
 		
 		System.out.println("할루");
 		
-		System.out.println("둥실");
+		System.out.println("둥실이");
+		
+		System.out.println("팀장 커밋");
 		
 	}
 
