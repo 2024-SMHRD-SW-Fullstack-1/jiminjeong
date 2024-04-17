@@ -10,6 +10,8 @@ public class Ex01 {
 		
 		System.out.println("팀워1 프로젝트뭐할까요");
 		
+		System.out.println("팀원2 웅장한거 만들죠");
+		
 	}
 
 }
