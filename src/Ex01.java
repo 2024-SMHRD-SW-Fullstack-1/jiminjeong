@@ -8,6 +8,9 @@ public class Ex01 {
 		
 		System.out.println("나만의 작업 커밋");
 		
+		
+		System.out.println("나만의 작업 커밋");
+		
 	}
 
 }
