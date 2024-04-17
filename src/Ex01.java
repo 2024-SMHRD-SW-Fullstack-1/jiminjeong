@@ -7,9 +7,12 @@ public class Ex01 {
 		System.out.println("팀원1 어려워요");
 		
 		System.out.println("나만의 작업 커밋");
-		System.out.println("Test");
+		
 		
 		System.out.println("branch 팀원1 커밋");
+		
+		
+		System.out.println("나만의 작업 커밋");
 		
 	}
 
