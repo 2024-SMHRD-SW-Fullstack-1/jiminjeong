@@ -12,6 +12,7 @@ public class Ex01 {
 		
 		System.out.println("팀원2 웅장한거 만들죠");
 		
+		System.out.println("나만의 작업 커밋");
 	}
 
 }
